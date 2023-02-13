@@ -1,7 +1,7 @@
 # aws-lambda-http-client
 Make a http call by using AWS Lambda for free!
 
-- Windows OS Script
+# Windows OS Script
 $env:GOOS = "linux"
 $env:GOARCH = "amd64"
 $env:CGO_ENABLED = "0"
